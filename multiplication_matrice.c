@@ -31,7 +31,7 @@ for ( i = 0; i < 2; i++)
        C[i][j] = A[i][j]*B[i][j];
     }
 } 
-// affichage des matrices A,B et C printf("A x B= \n");printf("B= \n");
+// affichage des matrices A,B et C ;
 printf("A= \n");
 for ( i = 0; i < 2; i++)
 {
