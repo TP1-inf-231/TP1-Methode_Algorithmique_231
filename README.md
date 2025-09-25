@@ -41,8 +41,12 @@ Par exemple :
 ```bash
 gcc som_matrice.c -o som_matrice
 ./som_matrice
+```
 
 ##   Auteur:
 Organiation TP1-INF-231
 
-Projet réalisé dans le cadre du cours [Methode ALgorithmique 231].
+Projet réalisé dans le cadre du cours [Methode ALgorithmique 231].Auteur
+
+
+
