@@ -23,9 +23,9 @@ Les fonctionnalités implémentées sont :
 Chaque fonctionnalité est écrite dans un fichier séparé :  
 
 - `som_matrice.c` → Somme de deux matrices.  
-- `produit_matrice.c` → Multiplication de deux matrices.  
+- `multiplication_matrices.c` → Multiplication de deux matrices.  
 - `recherche.c` → Recherche séquentielle.  
-- `multiplication_additions.c` → Multiplication par additions successives.  
+- `multiplication_a*b.c` → Multiplication par additions successives.  
 - `test_trie.c` → Vérification si un tableau est trié.  
 - `mediane.c` → Calcul du médian.  
 - `inversion_tableau.c` → Inversion d’un tableau.  
