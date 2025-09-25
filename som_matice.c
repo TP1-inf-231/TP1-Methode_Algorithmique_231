@@ -1,7 +1,7 @@
 # include <stdio.h>
 # include <stdlib.h>
 
-int main (void) {
+int main () {
     int A[4][5],B[4][5],C[4][5];
     int i ,j;
 //saisir les element de la matrice A  ;
@@ -11,9 +11,9 @@ int main (void) {
         {
             printf("A[%d][%d]=",i,j);
             scanf("%d",&A[i][j]);
-            /* code */
+            
         }
-           /* code */
+           
     }
     // entrer pour B;
     printf("entrer les elements de la matrice B \n") ;
@@ -22,9 +22,9 @@ int main (void) {
         {
             printf("B[%d][%d]=",i,j);// pour aider l'utilisateur
             scanf("%d",&B[i][j]);
-            /* code */
+            
         }
-        /* code */
+        
     }
     //calcul de la somme ;
     for ( i = 0; i < 4; i++) {
